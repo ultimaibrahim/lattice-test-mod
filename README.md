@@ -19,8 +19,8 @@ Un mod que **no hace nada**. Existe para probar el verificador y las páginas de
 3. Instálalo con `./aether add LatticeTestMod-<versión>.zip`.
 
 ```bash
-sha256sum LatticeTestMod-v1.1.0.zip
-./aether add LatticeTestMod-v1.1.0.zip
+sha256sum LatticeTestMod-v1.1.1.zip
+./aether add LatticeTestMod-v1.1.1.zip
 ```
 
 ## Quitar

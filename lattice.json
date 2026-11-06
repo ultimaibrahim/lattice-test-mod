@@ -4,17 +4,48 @@
   "hero": "cinematic",
   "banner": "images/banner.webp",
   "icon": "images/icon.png",
-  "tags": ["prueba", "mapa", "cuevas"],
+  "tags": [
+    "prueba",
+    "mapa",
+    "cuevas"
+  ],
   "links": [
-    { "label": "Código fuente", "url": "https://github.com/ultimaibrahim/lattice-test-mod" },
-    { "label": "Lattice", "url": "https://github.com/ultimaibrahim/lattice" }
+    {
+      "label": "Lattice",
+      "url": "https://github.com/ultimaibrahim/lattice"
+    },
+    {
+      "label": "Discord (ejemplo)",
+      "url": "https://discord.com/"
+    }
   ],
   "gallery": [
-    { "file": "images/01-entrada.webp", "caption": "La entrada de una cueva, vista desde arriba", "alt": "Terreno en isométrico con una cueva y una brújula" },
-    { "file": "images/02-mapa.webp", "caption": "El mapa completo por chunks de 32×32" },
-    { "file": "images/03-capas.webp", "caption": "Capas de cueva: superficie, galerías y profundo" },
-    { "file": "images/04-puntos.webp", "caption": "Puntos de ruta con su distancia" },
-    { "file": "images/05-ajustes.webp", "caption": "Ajustes del mod" }
+    {
+      "file": "images/01-entrada.webp",
+      "caption": "La entrada de una cueva, vista desde arriba",
+      "alt": "Terreno en isométrico con una cueva y una brújula"
+    },
+    {
+      "file": "images/02-mapa.webp",
+      "caption": "El mapa completo por chunks de 32×32"
+    },
+    {
+      "file": "images/03-capas.webp",
+      "caption": "Capas de cueva: superficie, galerías y profundo"
+    },
+    {
+      "file": "images/04-puntos.webp",
+      "caption": "Puntos de ruta con su distancia"
+    },
+    {
+      "file": "images/05-ajustes.webp",
+      "caption": "Ajustes del mod"
+    }
   ],
-  "sections": ["description", "gallery", "changelog", "versions"]
+  "sections": [
+    "description",
+    "gallery",
+    "changelog",
+    "versions"
+  ]
 }

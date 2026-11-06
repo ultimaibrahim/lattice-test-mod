@@ -1,3 +1,8 @@
+## v1.1.1
+
+- Banner sin texto incrustado y enlaces de ejemplo corregidos.
+- Los marcadores como `<versión>` del README ya se muestran como texto.
+
 ## v1.1.0
 
 - Página personalizada con `lattice.json`: banner, icono, color y etiquetas.
