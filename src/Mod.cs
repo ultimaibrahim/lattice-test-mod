@@ -1,7 +1,7 @@
 using System;
 
 // Test fixture for Lattice. It does nothing: it only carries the metadata Lattice reads from a mod.
-[assembly: Aether.AetherMod("lattice_test_mod", "1.0.0", Name = "Lattice Test Mod", Author = "ultimaibrahim")]
+[assembly: Aether.AetherMod("lattice_test_mod", "1.1.0", Name = "Lattice Test Mod", Author = "ultimaibrahim")]
 
 namespace Aether
 {
