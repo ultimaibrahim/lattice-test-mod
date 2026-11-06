@@ -1,3 +1,7 @@
+## v1.2.0
+
+- Añade una consulta de red de ejemplo (nunca se ejecuta): sirve para probar que una capacidad nueva manda la versión a revisión.
+
 ## v1.1.1
 
 - Banner sin texto incrustado y enlaces de ejemplo corregidos.
